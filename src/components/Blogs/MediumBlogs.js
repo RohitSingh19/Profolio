@@ -35,7 +35,7 @@ function MediumBlogs () {
         <Particle />
         <Container>
           <h1 className="project-heading">
-            Recent <strong className="purple">Blogs </strong>
+            <strong className="purple">Blogs </strong>
           </h1>
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
             {blogItmes}

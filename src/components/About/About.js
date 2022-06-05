@@ -57,7 +57,7 @@ function About() {
                     application.
                   </li>
                   <li>
-                    Implemented State Design Pattern for the Rating Engine.
+                    Implemented Factory design pattern for one of the module in application.
                   </li>
                   <li>
                     Fixed bugs from production and Sonar Cube to improve the

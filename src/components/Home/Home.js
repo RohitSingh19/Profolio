@@ -77,17 +77,13 @@ function Home() {
             <p className="home-about-body">
               <br /> From starting off with the simple <b className="purple">Hello World</b> example to solving <b className="purple">complex real-world </b> problems,
               my programming journey has been amazing. Despite knowing some of the best things from the <b className="purple">Programming World </b> I still consider myself a learner. <br /> 
-              <br />Currently, I'm working as <b className="purple">Full Stack Developer</b> and my technical skills include
+              <br />Currently, working as <b className="purple">Full Stack Developer</b> and my technical skills include
               <i>
                 <b className="purple"> OOP, Data Structures and Algorithms, Rest API, C#, Java, .Net Core, SQL, Azure, Git, CI/CD, Angular and ReactJs. </b>
               </i>
               <br />
               <br />
-              My day to day tasks mainly include coverting requirements into efficient and scalable code 
-              to build things from scratch or to make improvement in existing feature. 
-              <br />
-              <br />
-                I like making fun & interactive things with code. I also love to talk & write about those things.
+                I like making fun & interactive things with code and also love to talk & write about those things.
               <br />
             </p>
           </Col>

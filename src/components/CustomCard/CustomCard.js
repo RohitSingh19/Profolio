@@ -8,7 +8,7 @@ function CustomCard(props) {
     <Card className="card-view">
       <Card.Img variant="top" src={props.imgPath} height={250} alt="card-img" />
       <Card.Body>
-        <Card.Title><strong className="multi-color-text">{props.title}</strong></Card.Title>
+        <Card.Title><strong className="dark-purple">{props.title}</strong></Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
            {props.description}
         </Card.Text>
