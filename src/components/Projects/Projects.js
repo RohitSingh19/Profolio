@@ -8,7 +8,7 @@ import PROJECT_DATA from "./ProjectData";
 function Projects() {
 
   const projects = PROJECT_DATA.map((d) => (
-    <Col md={4} className="project-card">
+    <Col md={4} key={d.title} className="project-card">
       <CustomCard
         imgPath={d.imgPath}
         isBlog={false}

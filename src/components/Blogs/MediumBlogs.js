@@ -20,7 +20,7 @@ function MediumBlogs () {
 
 
     const blogItmes = mediumData.map((d) => (
-      <Col md={4} className="project-card">
+      <Col md={4} key={d.link} className="project-card">
         <CustomCard
           imgPath={d.thumbnail}
           isBlog={true}
