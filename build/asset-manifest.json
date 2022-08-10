@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0656789.css",
-    "main.js": "/static/js/main.a7d51248.js",
+    "main.css": "/static/css/main.632e2445.css",
+    "main.js": "/static/js/main.1c182263.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Rohit_SoftwareDeveloper.pdf": "/static/media/Rohit_SoftwareDeveloper.8cb4e20abb3294dbd20b.pdf",
     "static/media/badge.png": "/static/media/badge.565f9b3a3c726051862b.png",
     "static/media/home-main.svg": "/static/media/home-main.c08192facba1d53528306b45dd60d8b1.svg",
-    "static/media/Rohit_SoftwareDeveloper.pdf": "/static/media/Rohit_SoftwareDeveloper.ec328652f75b3a665b87.pdf",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.d0656789.css.map": "/static/css/main.d0656789.css.map",
-    "main.a7d51248.js.map": "/static/js/main.a7d51248.js.map",
+    "main.632e2445.css.map": "/static/css/main.632e2445.css.map",
+    "main.1c182263.js.map": "/static/js/main.1c182263.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0656789.css",
-    "static/js/main.a7d51248.js"
+    "static/css/main.632e2445.css",
+    "static/js/main.1c182263.js"
   ]
 }
