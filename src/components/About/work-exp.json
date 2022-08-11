@@ -1,0 +1,50 @@
+[
+{
+    "id": 1,
+    "jobTitle": "Full Stack Developer",
+    "companyName": "Xceedance Consulting India Pvt. Ltd.",
+    "duration": "2021 - Present",
+    "projects": [
+        {
+            "projectTitle": "Hoxton (An Insurance Domain Project)",
+             "workItems": [
+                "Created recurring jobs using Hangfire to automate the tasks.",
+                "Implemented notification system that sends Email to users.",
+                "Built REST APIs to provide back-end services for application.",
+                "Implemented Factory design pattern for one of the module in application",
+                "Fixed bugs from production and Sonar Cube to improve the performance of application upto 50%.",
+                "Designed UI for interactive Dashboard.",
+                "Integration of Third Party APIs to support the functionality of system."
+             ]
+        }
+    ]
+},
+{
+    "id": 2,
+    "jobTitle": "Software Developer",
+    "companyName": "IP Integrated Services Pvt. Ltd.",
+    "duration": "2018 - 2020",
+    "projects": [
+        {
+            "projectTitle": "Warehouse Management System",
+             "workItems": [
+                "Built REST APIs to support the mobile application.",
+                "Designed and developed reports to provide inventory data",
+                "Write Unit Test Cases",
+                "Improved the existing code that reduces the application startup time upto 50%",
+                "Integrated the system with Tata Cliq APIs for data exchange.",
+                "Worked efficiently with the Product Team to understand buisness requirements and translate them into code."
+             ]
+        },
+        {
+            "projectTitle": "Transport Management System",
+             "workItems": [
+                "Created Stored Procedures to generate reports",
+                "Implemented functionality to download invoices for transactions",
+                "Tested software for bugs and fixed them",
+                "Designed web pages."
+             ]
+        }
+    ]
+}
+]

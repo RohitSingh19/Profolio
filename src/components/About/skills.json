@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "skillName": "C Sharp",
+        "iconClass":"devicon-csharp-plain"
+    },
+    {
+        "id": 2,
+        "skillName": "Azure",
+        "iconClass":"devicon-azure-plain"
+    },
+    {
+        "id": 3,
+        "skillName": ".Net Core",
+        "iconClass":"devicon-dotnetcore-plain"
+    },
+    {
+        "id": 4,
+        "skillName": "",
+        "iconClass":"devicon-git-plain"
+    },
+    {
+        "id": 5,
+        "skillName": "",
+        "iconClass":"devicon-html5-plain"
+    },
+    {
+        "id": 6,
+        "skillName": "",
+        "iconClass":"devicon-javascript-plain"
+    },
+    {
+        "id": 7,
+        "skillName": "SQL",
+        "iconClass":"devicon-microsoftsqlserver-plain-wordmark"
+    },
+    {
+        "id": 8,
+        "skillName": "Bootstrap",
+        "iconClass":"devicon-bootstrap-plain"
+    },
+    {
+        "id": 9,
+        "skillName": "CSS",
+        "iconClass":"devicon-css3-plain"
+    },
+    {
+        "id": 10,
+        "skillName": "Firebase",
+        "iconClass":"devicon-firebase-plain"
+    },
+    {
+        "id": 11,
+        "skillName": "NPM",
+        "iconClass":"devicon-npm-original-wordmark"
+    },
+    {
+        "id": 12,
+        "skillName": "Type Script",
+        "iconClass":"devicon-typescript-plain"
+    },
+    {
+        "id": 13,
+        "skillName": "VS Code",
+        "iconClass":"devicon-vscode-plain"
+    },
+    {
+        "id": 14,
+        "skillName": "No SQL",
+        "iconClass":"devicon-mongodb-plain"
+    }
+]
+

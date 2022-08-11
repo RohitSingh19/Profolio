@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "duration":"2015-2018",
+        "name": "Master's in Computer Application (MCA)",
+        "institue": "Maharshi Dayanand University, Rohtak"
+    },
+    {
+        "id": 2,
+        "duration":"2012-2015",
+        "name": "Bachelors's in Computer Application (BCA)",
+        "institue": "Maharshi Dayanand University, Rohtak"
+    },
+    {
+        "id": 3,
+        "duration":"2011",
+        "name": "Senior Secondary",
+        "institue": "Hans Raj Public High School, Gurgaon (HR)"
+    }
+
+]
