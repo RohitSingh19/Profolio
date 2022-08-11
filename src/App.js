@@ -17,6 +17,7 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Blogs from "./components/Blogs/Blogs";
+import Tracking from './components/Tracking';
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -33,6 +34,7 @@ function App() {
   return (
     <Router>
       <Preloader load={load} />
+        {load && <Tracking/> }
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <Routes>
