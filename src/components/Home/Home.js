@@ -9,17 +9,15 @@ import {AiFillGithub,AiFillInstagram,AiFillFacebook} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { BiBot } from "react-icons/bi";
 import axios from 'axios';
-
 import ModalPopUp from "../ModalPopUp";
+
 function Home() {
 
  const [modalShow, setModalShow] = useState(false);
  const [randomData, setrandonData] = useState([]);
 
   const getrandomData = async () => {
-    const res = await axios.get(
-      "https://uselessfacts.jsph.pl/random.json?language=en"
-    );
+    const res = await axios.get("https://uselessfacts.jsph.pl/random.json?language=en");
     setrandonData(res);
   };
   
@@ -67,7 +65,7 @@ function Home() {
         <Row>
         <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid avatar" alt="avatar" />
             </Tilt>
           </Col>
           <Col md={8} className="home-about-description">
@@ -77,7 +75,7 @@ function Home() {
             <p className="home-about-body">
               <br /> From starting off with the simple <b className="purple">Hello World</b> example to solving <b className="purple">complex real-world </b> problems,
               my programming journey has been amazing. Despite knowing some of the best things from the <b className="purple">Programming World </b> I still consider myself a learner. <br /> 
-              <br />Currently, working as <b className="purple">Full Stack Developer</b> and my technical skills include
+              <br />I'm currently working as <b className="purple">Software Enginner A2 </b> in <b className="purple"> EPAM Systems</b> and my technical skills include
               <i>
                 <b className="purple"> OOP, Data Structures and Algorithms, Rest API, C#, Java, .Net Core, SQL, Azure, Git, CI/CD, Angular and ReactJs. </b>
               </i>

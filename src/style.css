@@ -40,6 +40,10 @@ html {
   display: inline-block;
 }
 
+.avatar {
+  box-shadow: 0 4px 8px 0 rgba(178, 121, 216, 0.959), 0 6px 20px 0 rgba(231, 208, 247, 0.959);
+  border-radius: 50%;
+}
 @keyframes wave-animation {
     0% { transform: rotate( 0.0deg) }
    10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
