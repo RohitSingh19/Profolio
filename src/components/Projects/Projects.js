@@ -1,8 +1,6 @@
-import React, {useState, useEffect} from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import CustomCard from "../CustomCard/CustomCard";
-import axios from 'axios';
 import PROJECT_DATA from "./ProjectData";
 
 function Projects() {

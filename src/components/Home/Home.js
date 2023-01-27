@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Type from "./Type";
 import myImg from "../../Assets/badge.png";
 import Tilt from "react-parallax-tilt";
-import {AiFillGithub,AiFillInstagram,AiFillFacebook} from "react-icons/ai";
+import {AiFillGithub,AiFillInstagram,AiFillFacebook, AiFillTwitterCircle} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { BiBot } from "react-icons/bi";
 import axios from 'axios';
@@ -110,11 +110,21 @@ function Home() {
                   <AiFillFacebook />
                 </a>
               </li>
-              <li className="social-icons" title="Click here to know a random fact!">
+              {/* <li className="social-icons" title="Click here to know a random fact!">
                 <Button className="icon-colour" 
                 variant="primary" onClick={() => setModalShow(true)}>
                 <BiBot /> 
                   </Button>
+              </li> */}
+              <li className="social-icons">
+              <a
+                  href="https://twitter.com/singh_rohit09"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                 <AiFillTwitterCircle />
+                </a>
               </li>
               <li className="social-icons">
                 <a
