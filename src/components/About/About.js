@@ -205,7 +205,7 @@ function About() {
                   </li>
                   <li className="tech-icon">
                   <a
-                    href="https://www.instagram.com/rohit_chiki/"
+                    href="https://www.instagram.com/singh.rohit1909/"
                     target="_blank"
                     rel="noreferrer"
                     >
